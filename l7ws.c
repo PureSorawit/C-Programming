@@ -185,6 +185,7 @@ int main()
         }
         printf("Thank you for your information\n");
     }
+    printf("Finish!\n");
 
 return 0;
 }
